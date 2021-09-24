@@ -21,7 +21,7 @@ gradle clean test
 allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
-## please watch test screen rec. https://drive.google.com/drive/u/0/my-drive
+## Please watch test screen rec. https://drive.google.com/file/d/1AJVt7Udm0ST-whdMaKyUSAbRR2IdG3bD/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/87892957/134738328-c7c2960f-2b67-41ab-a0cb-34255cb11aff.png)
 ![image](https://user-images.githubusercontent.com/87892957/134738364-a39d6381-1fbf-4f68-9baf-173d987820e0.png)
